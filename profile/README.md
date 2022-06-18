@@ -1,4 +1,4 @@
-## A organization whoose reverse engineering skiddy programs like Ransomwares, Rats, Binders, Crypters, Game Cheats, etc.
+## An organization whoose reverse engineering skiddy programs like Ransomwares, Rats, Binders, Crypters, Game Cheats, etc.
 
 <!--
 
